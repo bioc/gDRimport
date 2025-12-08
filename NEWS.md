@@ -1,3 +1,6 @@
+## gDRimport 1.8.1 - 2025-12-08
+* fix vignette error (testthat::with_mocked_bindings)
+
 ## gDRimport 1.7.5 - 2025-08-12
 * fix usage of `ifelse`
 
